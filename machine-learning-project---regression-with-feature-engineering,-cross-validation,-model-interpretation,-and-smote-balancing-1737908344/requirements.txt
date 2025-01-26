@@ -1,0 +1,10 @@
+numpy>=1.24.0
+pandas>=1.5.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+scikit-learn>=1.0.0
+imbalanced-learn>=0.10.0  # for SMOTE
+xgboost>=1.7.0  # for XGBoost
+lightgbm>=4.0.0  # for LightGBM
+optuna>=3.0.0  # for hyperparameter optimization
+shap>=0.41.0  # for model interpretation
