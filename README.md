@@ -8,3 +8,6 @@ This repository contains various machine learning projects implementing differen
 
 ## [machine-learning-project---regression-with-feature-engineering,-cross-validation,-model-interpretation,-and-smote-balancing](machine-learning-project---regression-with-feature-engineering,-cross-validation,-model-interpretation,-and-smote-balancing-1737908344)
 
+
+## [handwritten-digit-recognition-with-dimensionality-reduction,-model-calibration,-performance-profiling,-and-time-series-cross-validation](handwritten-digit-recognition-with-dimensionality-reduction,-model-calibration,-performance-profiling,-and-time-series-cross-validation)
+
