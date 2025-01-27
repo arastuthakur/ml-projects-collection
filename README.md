@@ -11,3 +11,6 @@ This repository contains various machine learning projects implementing differen
 
 ## [handwritten-digit-recognition-with-dimensionality-reduction,-model-calibration,-performance-profiling,-and-time-series-cross-validation](handwritten-digit-recognition-with-dimensionality-reduction,-model-calibration,-performance-profiling,-and-time-series-cross-validation)
 
+
+## [Customer Segmentation Analysis With Dimensionality Reduction, Pipeline Optimization, Error Analysis, And Custom Scoring Metrics](customer-segmentation-analysis-with-dimensionality-reduction,-pipeline-optimization,-error-analysis,-and-custom-scoring-metrics)
+
