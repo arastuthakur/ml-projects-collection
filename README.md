@@ -14,3 +14,6 @@ This repository contains various machine learning projects implementing differen
 
 ## [Customer Segmentation Analysis With Dimensionality Reduction, Pipeline Optimization, Error Analysis, And Custom Scoring Metrics](customer-segmentation-analysis-with-dimensionality-reduction,-pipeline-optimization,-error-analysis,-and-custom-scoring-metrics)
 
+
+## [Machine Learning Project: Bike Sharing Demand Prediction](machine-learning-project:-bike-sharing-demand-prediction)
+
