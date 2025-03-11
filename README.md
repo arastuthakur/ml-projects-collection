@@ -20,3 +20,6 @@ This repository contains various machine learning projects implementing differen
 
 ## [```Python](```python)
 #!/usr/bin/env python3
+
+## [Mall Customer Clustering](mall-customer-clustering)
+
